@@ -10,7 +10,7 @@ To use this file,
 5. Navigate to http://localhost:1841/ for the display of songs. 
 
 
-==============================================================================================================
+============================================================================================
 
 Final product looks like this (the result of a GET request for all records):
 ![image](https://user-images.githubusercontent.com/77317763/131038175-1bd7004b-6280-402c-94b8-11c4b7f45ca9.png)
