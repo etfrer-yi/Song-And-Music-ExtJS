@@ -13,7 +13,7 @@ To use this file,
 ============================================================================================
 
 Final product looks like this (the result of a GET request for all records):
-![image](https://user-images.githubusercontent.com/77317763/131038175-1bd7004b-6280-402c-94b8-11c4b7f45ca9.png)
+![image](https://user-images.githubusercontent.com/77317763/131039014-e061c201-5000-4da8-a592-e160e5758d90.png)
 
 Clicking on 'Add New Record' generates a form that allows you to CREATE a new record in the database:
 ![image](https://user-images.githubusercontent.com/77317763/131038289-1f4e6890-1fac-4933-a0df-03b7aad08782.png)
