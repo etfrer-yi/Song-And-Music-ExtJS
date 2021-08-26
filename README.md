@@ -23,4 +23,4 @@ Clicking on any of the existing records generates a form filled out with the det
 
 Clicking on any of the checkboxes on the rightmost column will DELETE that record.
 
-All basic CRUD endpoints are done in NestJS. 
+All basic CRUD endpoints are done in NestJS (the associated SongAndMusic NestJS repository at https://github.com/etfrer-yi/Song-And-Music-NestJS-). The UI is accomplished through ExtJS (this repository).
